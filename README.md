@@ -1,5 +1,5 @@
 # COMP 607 Project
-Database Project
+
 This is a Git repository COMP_607_Project for the 
 computational database fundamentals project.
 
