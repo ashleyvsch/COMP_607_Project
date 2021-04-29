@@ -13,7 +13,7 @@ try {
   $sql = file_get_contents("data/init.sql");
   $connection->exec($sql);
 
-  echo "Database and table users created successfully.";
+  echo "Database adoptable_dogs created successfully.";
 } catch(PDOException $error) {
   echo $sql . "<br>" . $error->getMessage();
 }
